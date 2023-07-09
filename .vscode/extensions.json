@@ -1,9 +1,18 @@
 {
   "recommendations": [
-    "esbenp.prettier-vscode",
+    "ms-vscode.cpptools-extension-pack",
+    "xaver.clang-format",
+    "ms-dotnettools.csharp",
+    "vscjava.vscode-java-pack",
     "golang.go",
-    "ms-python.black-formatter",
+    "mathiasfrohlich.kotlin",
+    "fwcd.kotlin",
     "ms-python.python",
+    "ms-python.black-formatter",
     "rust-lang.rust-analyzer",
+    "sswg.swift-lang",
+    "vknabel.vscode-apple-swift-format",
+    "vadimcn.vscode-lldb",
+    "esbenp.prettier-vscode",
   ]
 }

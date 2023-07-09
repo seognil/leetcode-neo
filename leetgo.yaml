@@ -3,12 +3,22 @@
 language: zh
 code:
   # lang: ts
+  cpp:
+    out_dir: solutions/cpp
+  csharp:
+    out_dir: solutions/csharp
+  java:
+    out_dir: solutions/java
   go:
     out_dir: solutions/go
+  kotlin:
+    out_dir: solutions/kotlin/solutions
   python3:
     out_dir: solutions/python3
   rust:
     out_dir: solutions/rust
+  swift:
+    out_dir: solutions/swift
   typescript:
     out_dir: solutions/typescript
 leetcode:
