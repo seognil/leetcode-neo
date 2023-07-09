@@ -1,0 +1,19 @@
+# This is the leetgo project level config, global config is at /Users/lc/.config/leetgo/config.yaml
+# For more details, please refer to https://github.com/j178/leetgo
+language: zh
+code:
+  # lang: ts
+  go:
+    out_dir: solutions/go
+  python3:
+    out_dir: solutions/python3
+  rust:
+    out_dir: solutions/rust
+  typescript:
+    out_dir: solutions/typescript
+leetcode:
+  site: https://leetcode.cn
+credentials:
+  from: browser
+#editor:
+#  use: none
